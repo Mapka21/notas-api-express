@@ -1,0 +1,37 @@
+{
+  "name": "notas-api",
+  "version": "1.0.0",
+  "description": "API REST sencilla para gestionar notas personales",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "notas",
+    "express",
+    "mysql",
+    "rest"
+  ],
+  "author": "Tu Nombre <tu.email@example.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu-usuario/notas-api-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/notas-api-express/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/notas-api-express#readme"
+}
