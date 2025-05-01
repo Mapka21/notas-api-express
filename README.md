@@ -58,6 +58,7 @@ DB_NAME=notas_app
 DB_PORT=3306
 PORT=3000
 ```
+![Diagrama ER](images/er_diagrama.png)
 
 ## Base de Datos
 

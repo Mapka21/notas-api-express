@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "8fd6919f-e320-44e8-83c8-b7abead223fd",
+		"name": "NOTAS API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44372581",
+		"_collection_link": "https://marco-9287562.postman.co/workspace/marco's-Workspace~6e9ae608-ad64-40b8-8fe4-d2db3f7bb9a6/collection/44372581-8fd6919f-e320-44e8-83c8-b7abead223fd?action=share&source=collection_link&creator=44372581"
+	},
+	"item": [
+		{
+			"name": "PUT EDITAR NOTA",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "CREAR NOTA ALICIA",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Listar todas las notas",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Obtener una nota por ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE BORRAR NOTA",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET CLASIFICACIONES",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
